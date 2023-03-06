@@ -3,7 +3,7 @@ package ejercicio;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ejercicio4 {
+public class Ejercicio4 {
 
 	public static void main(String[] args) {
 		
